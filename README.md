@@ -70,4 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # weather-api
 Weather api using openweather in React
->>>>>>> 6055104eeb51b71f5c8fd26745eaed7e89dd72e4
+>>>>>>> 
